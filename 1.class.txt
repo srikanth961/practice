@@ -1,1 +1,2 @@
 Hi Srikanth
+Adding new lines into the file .java
